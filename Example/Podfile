@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'KMNavigationBarTransition_Example' do
+  pod 'KMNavigationBarTransition', :path => '../'
+
+  target 'KMNavigationBarTransition_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
