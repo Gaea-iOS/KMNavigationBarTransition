@@ -1,0 +1,16 @@
+PODS:
+  - KMNavigationBarTransition (0.1.0)
+
+DEPENDENCIES:
+  - KMNavigationBarTransition (from `../`)
+
+EXTERNAL SOURCES:
+  KMNavigationBarTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KMNavigationBarTransition: 289e54848f72a8c4e9fceba2105453d50750da04
+
+PODFILE CHECKSUM: be675e89cd02e0a79e5aa29263a54275fafebf65
+
+COCOAPODS: 1.5.3
